@@ -1,3 +1,4 @@
+ HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,6 @@ export default defineConfig([
   },
 ])
 ```
+# university-management
+نظام إدارة جامعي شامل لتسجيل الدخول، إدارة المستخدمين، والمهام الإدارية باستخدام Google Apps Script.
+ 54976deaf2ed54257228cfcc96305151e199a861
