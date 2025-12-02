@@ -1,0 +1,28 @@
+/* ========== CSS Variables ========== */
+
+:root {
+  /* Colors */
+  --color-primary: #0066cc;
+  --color-primary-dark: #004999;
+  --color-secondary: #ff9900;
+  --color-bg: #f9f9f9;
+  --color-text: #333;
+  --color-heading: #222;
+  --color-border: #ddd;
+
+  /* Typography */
+  --font-base: "Segoe UI", Arial, sans-serif;
+  --font-heading: "Roboto", sans-serif;
+
+  /* Spacing */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+
+  /* Border radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+}

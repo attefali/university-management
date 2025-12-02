@@ -1,0 +1,43 @@
+/* ========== Global Styles ========== */
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base body styles */
+html, body {
+  height: 100%;
+  font-family: var(--font-base, Arial, sans-serif);
+  background-color: var(--color-bg, #f9f9f9);
+  color: var(--color-text, #333);
+  line-height: 1.6;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: var(--color-primary, #0066cc);
+}
+a:hover {
+  color: var(--color-primary-dark, #004999);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: var(--color-heading, #222);
+}
+
+/* Utility classes */
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.text-center {
+  text-align: center;
+}
